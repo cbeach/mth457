@@ -1,0 +1,18 @@
+Move()
+	get free spaces
+	for columns
+		for rows
+			if space (i,j) is free
+				make board with new move
+				if symetric with another board
+					discard
+				else
+					commit to tree array
+					commit to stack
+
+				
+			
+
+
+
+
